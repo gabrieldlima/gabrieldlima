@@ -1,12 +1,10 @@
-<h1 align="left">Hey 👾 What's up?</h1>
+### Hey 👾 What's up?
+My name is Gabriel Lima, and I'm learning Computer Science by myself.
 
-###
+#### 📚 Books I'm reading
+- **[The C Programming Language 2nd Edition](https://en.wikipedia.org/wiki/The_C_Programming_Language)** by Brian Kernighan and Dennis Ritchie
 
-<p align="left">My name is Gabriel Lima, and I'm learning Computer Science by myself. I’m particularly interested in C/C++, Assembly (6502/ARM), algorithms and data structures, computer architecture, operating systems, and computer graphics (for game development). Yes, I prefer low-level topics and i hate web development :-)</p>
-
-###
-
-<h2 align="left">Technologies</h2>
+### Technologies
 
 ###
 
