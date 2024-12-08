@@ -1,5 +1,5 @@
 ### Hey 👾 What's up?
-My name is Gabriel Lima, and I'm learning Computer Science by myself.
+My name is Gabriel Lima, and I'm on a journey to teach myself Computer Science.
 
 #### 📚 Books I'm reading
 - **[The C Programming Language 2nd Edition](https://en.wikipedia.org/wiki/The_C_Programming_Language)** by Brian Kernighan and Dennis Ritchie
