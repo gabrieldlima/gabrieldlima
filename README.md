@@ -2,7 +2,7 @@
 My name is Gabriel Lima, and I'm on a journey to teach myself Computer Science.
 
 #### 📚 Books I'm reading
-- **[The C Programming Language 2nd Edition](https://en.wikipedia.org/wiki/The_C_Programming_Language)** by Brian Kernighan and Dennis Ritchie
+- **[Programming - Principles and Practice Using C++ (3rd Edition)](https://www.stroustrup.com/PPP3.html)** by Bjarne Stroustrup
 
 ### Technologies
 
