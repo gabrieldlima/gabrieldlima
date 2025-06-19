@@ -2,4 +2,4 @@
 I'm on a journey to teach myself Computer Science.
 
 #### 📚 Books of CS that I'm reading
-- **[C Programming A Modern Approach 2nd Edition](http://knking.com/books/c2/index.html)** by K. N. King
+- **[Programming - Principles and Practice Using C++ 3rd Edition](https://www.stroustrup.com/PPP3.html)** by Bjarne Stroustrup
