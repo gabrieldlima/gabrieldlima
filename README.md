@@ -1,3 +1,3 @@
 ### Hey 👾 What's up?
 
-Learning C++ with focus on Graphics (OpenGL, DX11/DX12, Vulkan) and Game/Engine development.
+Trying to study computer graphics to make games, but can’t stop playing games to learn computer graphics 😁
